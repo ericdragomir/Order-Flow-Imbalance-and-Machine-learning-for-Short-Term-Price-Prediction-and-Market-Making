@@ -76,7 +76,7 @@ The complete workflow consists of four stages.
 │
 ├── models/
 │
-├── data/raw
+├── data/raw *Not included
 │
 ├── src/
 │   ├── data_ingestion/
@@ -85,6 +85,8 @@ The complete workflow consists of four stages.
 ├── research_note.pdf
 │
 ├── requirements.txt
+│
+├── LICENSE
 │
 └── README.md
 ```
